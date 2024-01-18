@@ -1,4 +1,4 @@
-REQUISITOS PARA EXECUÇÃO:
+## REQUISITOS PARA EXECUÇÃO:
     * Python (versão 3.10):
         sudo apt install python3.10
     * Pygame (versão 2.5.2):
@@ -8,11 +8,11 @@ REQUISITOS PARA EXECUÇÃO:
     * Sistema Operacional
         Linux (Ubuntu 20.04)
 
-PARA EXECUTAR:
+## PARA EXECUTAR:
     * Apenas necessário usar a seguinte linha no terminal, na pasta do código:
         python3 fill_poly.py
     
-COMO UTILIZAR:
+## COMO UTILIZAR:
     * Com a janela do aplicativo aberta, é possível:
         - Criar triângulos utilizando cliques do botão esquerdo do mouse na parte branca da tela (é necessário pressionar a tecla C antes da criação de cada triângulo).
         - Resetar a tela pressionando a tecla 'R' (necessário lembrar que é preciso terminar uma ação para começar outra, ou seja, caso um triângulo esteja sendo criado, é necessário terminá-lo antes de resetar).
